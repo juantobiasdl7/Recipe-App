@@ -2,8 +2,8 @@
 
 This an app in which you can visualized cooking recipes of any item of this list of available queries:
 
-carrot \n
-broccoli
+  -carrot
+  -broccoli
 asparagus
 cauliflower
 corn
